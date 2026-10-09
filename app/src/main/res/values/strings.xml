@@ -5,4 +5,6 @@
     <string name="nama">Arby</string>
     <string name="alamat">Batam, Kepulauan Riau</string>
     <string name="copy">Copyright, 2026</string>
+    <color name="card_0_bg">#575454</color>
 </resources>
+
